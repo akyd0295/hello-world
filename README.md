@@ -1,2 +1,5 @@
 # hello-world
-Repository for Ideas
+
+Hi Humans,
+
+Programmer Mark(Akash) here,I like Competetive Coding and I'm a budding Data Scientist
